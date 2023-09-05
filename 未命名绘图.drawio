@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-05T07:16:59.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eu-e-rgYcSCEFlJi5bfy" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-05T07:18:44.384Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="QUp3bUwuq1uFMiG9tb5E" version="21.7.2" type="github">
   <diagram name="第 1 页" id="YQ_WwDAmIUOAAhOGefHQ">
     <mxGraphModel dx="2757" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xC1GActbguNUvryL0CdP-53" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;container=0;" vertex="1" parent="1">
+          <mxGeometry x="-590" y="410" width="160" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1480" y="400" width="280" height="130" as="geometry" />
         </mxCell>
@@ -752,7 +755,7 @@
           <mxGeometry x="65" y="60" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-21" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.command_center;" vertex="1" parent="1">
-          <mxGeometry x="-757" y="550" width="62.91" height="80" as="geometry" />
+          <mxGeometry x="-782.91" y="425" width="62.91" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-24" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="1">
           <mxGeometry x="-827" y="670" width="51" height="60" as="geometry" />
@@ -1118,7 +1121,7 @@
           <mxGeometry x="-900.05" y="880" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-50" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-780" y="300" width="60" height="80" as="geometry" />
+          <mxGeometry x="-580" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-46" value="" style="group" vertex="1" connectable="0" parent="xC1GActbguNUvryL0CdP-50">
           <mxGeometry width="60" height="61.06" as="geometry" />
@@ -1133,7 +1136,7 @@
           <mxGeometry y="70" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-51" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-590" y="300" width="60" height="80" as="geometry" />
+          <mxGeometry x="-500" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-45" value="" style="group" vertex="1" connectable="0" parent="xC1GActbguNUvryL0CdP-51">
           <mxGeometry width="60" height="61.06" as="geometry" />
@@ -1148,7 +1151,7 @@
           <mxGeometry y="70" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-52" value="Reward" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="453.94" width="90" height="30" as="geometry" />
+          <mxGeometry x="-555" y="410" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
