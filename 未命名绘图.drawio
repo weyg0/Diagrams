@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-24T12:52:09.604Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="tQ8bQBktV2j3fRjmjQed" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-24T13:01:39.920Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MSmL9druTJwkysg5FNB9" version="21.7.5" type="github">
   <diagram name="第 1 页" id="YQ_WwDAmIUOAAhOGefHQ">
-    <mxGraphModel dx="3456" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3522" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -923,7 +923,7 @@
         <mxCell id="xC1GActbguNUvryL0CdP-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#001DBC;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-46" vertex="1">
           <mxGeometry y="21.060000000000002" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xC1GActbguNUvryL0CdP-48" value="△Salience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-50" vertex="1">
+        <mxCell id="xC1GActbguNUvryL0CdP-48" value="Salience" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-50" vertex="1">
           <mxGeometry y="70" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-51" value="" style="group;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-211" vertex="1" connectable="0">
@@ -938,7 +938,7 @@
         <mxCell id="xC1GActbguNUvryL0CdP-42" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontColor=#ffffff;strokeColor=#001DBC;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-45" vertex="1">
           <mxGeometry y="21.060000000000002" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xC1GActbguNUvryL0CdP-49" value="△Difference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-51" vertex="1">
+        <mxCell id="xC1GActbguNUvryL0CdP-49" value="Difference" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=12;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-51" vertex="1">
           <mxGeometry y="70" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-52" value="Reward" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#E6E6E6;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-211" vertex="1">
@@ -984,7 +984,7 @@
         <mxCell id="xC1GActbguNUvryL0CdP-5" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;container=0;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-18" vertex="1">
           <mxGeometry width="280" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="GnAd-ALBWmafCP_U2Yk_-217" value="3. Salience Calculation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;container=0;fontFamily=Times New Roman;fontStyle=1" parent="xC1GActbguNUvryL0CdP-18" vertex="1">
+        <mxCell id="GnAd-ALBWmafCP_U2Yk_-217" value="3. Salience Calculation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCCCCC;container=0;fontFamily=Times New Roman;fontStyle=1;fontSize=13;" parent="xC1GActbguNUvryL0CdP-18" vertex="1">
           <mxGeometry x="30" width="220" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xC1GActbguNUvryL0CdP-17" value="" style="group;fontFamily=Times New Roman;" parent="xC1GActbguNUvryL0CdP-18" vertex="1" connectable="0">
@@ -1237,11 +1237,22 @@
         <mxCell id="3GkEg7WlR32Z1Dc40FkS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;strokeWidth=3;" edge="1" parent="1" source="3GkEg7WlR32Z1Dc40FkS-35" target="dQwBcyI58okyFWnF7Auc-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3GkEg7WlR32Z1Dc40FkS-35" value="Cybersecurity Posture&lt;br&gt;(When Attack Traffic Characterization T = Threshold θ)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="3GkEg7WlR32Z1Dc40FkS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.429;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" edge="1" parent="1" source="3GkEg7WlR32Z1Dc40FkS-35" target="xC1GActbguNUvryL0CdP-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3GkEg7WlR32Z1Dc40FkS-35" value="Cybersecurity Posture Trigger&lt;br&gt;(When Attack Traffic Characterization T = Threshold θ)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=4;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1640" y="590" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3GkEg7WlR32Z1Dc40FkS-38" value="Regenerate Defense Strategy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="-2020" y="580" width="160" height="30" as="geometry" />
+        <mxCell id="3GkEg7WlR32Z1Dc40FkS-38" value="Regenerate Defense Strategy (Back to step 1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-2060" y="580" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3GkEg7WlR32Z1Dc40FkS-42" value="Perceive" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3GkEg7WlR32Z1Dc40FkS-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;startSize=6;jumpSize=6;strokeWidth=1;endSize=6;" edge="1" parent="1" source="xC1GActbguNUvryL0CdP-209">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1410" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
