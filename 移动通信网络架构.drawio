@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T11:02:58.662Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.4" etag="WBrB5o7JDfpvdMQqfDhq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T02:16:22.028Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="qGYelvoG_i-zVp390pzb" version="22.0.4" type="github">
   <diagram name="第 1 页" id="0faVex6j-LpVvl03aqlM">
-    <mxGraphModel>
+    <mxGraphModel dx="1026" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lStiSnuHWTSeo9srpX9b-2" value="User Equipment&lt;br&gt;用户设备&lt;br&gt;UE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-4" value="NR&lt;br&gt;New Radio&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-5" value="gNB&amp;nbsp;&lt;br&gt;gNodeB&lt;br&gt;Next-Generation NodeB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-11" value="AMF&lt;br&gt;接入及移动性管理功能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-12" value="SMF&lt;br&gt;会话管理功能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-13" value="NSSF&lt;br&gt;网络切片选择功能" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-14" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-15" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.laptop_1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="91" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.globe;" vertex="1" parent="1">
+          <mxGeometry x="190" y="105" width="78.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-17" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.router;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="55" height="36.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-18" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="370" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-19" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l2_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-20" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=l3_switch;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-21" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="lStiSnuHWTSeo9srpX9b-22" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-60" width="90" height="66.18" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
