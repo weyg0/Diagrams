@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T04:00:31.424Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dq9A59JzyWB-jI-1-W79" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T04:01:33.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jJeSbu0gJnEi3pcvZJuo" version="22.1.3" type="github">
   <diagram name="第 1 页" id="iitQaWTlGbYpa34RNPeF">
-    <mxGraphModel dx="598" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1147" dy="1485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,11 +88,8 @@
         <mxCell id="8jJ2_m_tyTiKnN_H3z05-31" value="新容器通过&lt;br&gt;“预进入队列”&lt;br&gt;插件" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;size=15;position=0.38;position2=0.5;base=20;" vertex="1" parent="1">
           <mxGeometry x="130" y="-300" width="80" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="8jJ2_m_tyTiKnN_H3z05-33" value="在缓存中&lt;br&gt;为容器保留&lt;br&gt;一个节点" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="610" y="-494" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8jJ2_m_tyTiKnN_H3z05-34" value="将容器&lt;br&gt;绑定到节点" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;position2=0.61;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-300" width="90" height="105" as="geometry" />
+        <mxCell id="8jJ2_m_tyTiKnN_H3z05-34" value="将容器&lt;br&gt;绑定到节点" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Times New Roman;position2=0.55;size=25;position=0.4;base=30;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-300" width="80" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
