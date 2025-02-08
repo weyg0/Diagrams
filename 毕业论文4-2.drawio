@@ -208,6 +208,15 @@
         <mxCell id="ew52CopBTiy0qgOwrXaB-21" value="良性用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="822.31" y="381" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-24" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;startArrow=classicThin;startFill=1;strokeColor=#FF0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endSize=6;startSize=6;exitX=1;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1" target="ew52CopBTiy0qgOwrXaB-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640.5000000000005" y="170" as="sourcePoint" />
+            <mxPoint x="1110" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1100" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
