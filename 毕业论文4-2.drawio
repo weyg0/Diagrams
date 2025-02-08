@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="rDAhorvOJG-MkOTuWVUT">
-    <mxGraphModel dx="667" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1091" dy="1244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,6 +373,39 @@
             <mxPoint x="1025" y="-10" as="sourcePoint" />
             <mxPoint x="926" y="-10" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-87" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#a5a5a5, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="580" y="100" width="500" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-88" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="130" as="sourcePoint" />
+            <mxPoint x="620" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-89" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;startArrow=classicThin;startFill=1;strokeColor=#FF0000;endSize=6;startSize=6;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="130" as="sourcePoint" />
+            <mxPoint x="920" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-90" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;startArrow=blockThin;startFill=1;strokeColor=#00B1F3;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="130" as="sourcePoint" />
+            <mxPoint x="770" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-91" value="防御过程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="830" y="115" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-92" value="攻击过程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="980" y="115" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-93" value="服务过程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="680" y="115" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
