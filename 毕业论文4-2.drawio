@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="rDAhorvOJG-MkOTuWVUT">
-    <mxGraphModel dx="1740" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1969" dy="2566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -158,10 +158,10 @@
           <mxGeometry x="1070" y="340" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ew52CopBTiy0qgOwrXaB-5" value="间谍1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-110" width="50" height="30" as="geometry" />
+          <mxGeometry x="832.31" y="221" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew52CopBTiy0qgOwrXaB-6" value="间谍2&lt;span style=&quot;font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E9%97%B4%E8%B0%8D1%22%20style%3D%22text%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3BfontStyle%3D1%3BfontSize%3D15%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22600%22%20y%3D%22-110%22%20width%3D%2250%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-110" width="50" height="30" as="geometry" />
+          <mxGeometry x="832.31" y="540" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ew52CopBTiy0qgOwrXaB-7" value="僵尸网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="720" y="-60" width="70" height="30" as="geometry" />
@@ -204,6 +204,9 @@
               <mxPoint x="1100" y="580" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ew52CopBTiy0qgOwrXaB-21" value="良性用户" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="822.31" y="381" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
