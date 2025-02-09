@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="VzLskC3Nck2XnkHbNkGs">
-    <mxGraphModel dx="1075" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="995" dy="1092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
           <mxGeometry x="170" y="980" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XG7Jk1dSR3eQzrkepQb0-19" value="$$V_\mu(\mathcal{S}^t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="575" y="1170" width="50" height="30" as="geometry" />
+          <mxGeometry x="575" y="1200" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XG7Jk1dSR3eQzrkepQb0-21" value="$$&amp;lt;s_t,a_t,p_t,v_t,r_t&amp;gt;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="250" y="1240" width="140" height="30" as="geometry" />
@@ -160,7 +160,7 @@
           <mxGeometry x="290" y="1270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XG7Jk1dSR3eQzrkepQb0-40" value="$$p_\theta(a_{i,j}^t|S^t)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1110" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="1140" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
