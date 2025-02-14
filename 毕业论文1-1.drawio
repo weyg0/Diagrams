@@ -1,9 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="第 1 页" id="Q9MBymESR3TjVLLIOMGT">
-    <mxGraphModel dx="330" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="255" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rEHO3wVgUw_oy06tpRax-138" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeWidth=2;startFill=0;dashed=1;opacity=50;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="660" as="sourcePoint" />
+            <mxPoint x="370" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="650" />
+              <mxPoint x="300" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEHO3wVgUw_oy06tpRax-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="rEHO3wVgUw_oy06tpRax-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="560" width="120" height="120" as="geometry" />
         </mxCell>
@@ -62,8 +75,8 @@
             <mxPoint x="135" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rEHO3wVgUw_oy06tpRax-66" value="决策边界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="145" y="560" width="60" height="20" as="geometry" />
+        <mxCell id="rEHO3wVgUw_oy06tpRax-66" value="模型1决策边界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rEHO3wVgUw_oy06tpRax-121" value="类别A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontColor=#6C8EBF;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="280" y="560" width="40" height="20" as="geometry" />
@@ -120,11 +133,8 @@
             <mxPoint x="335" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rEHO3wVgUw_oy06tpRax-136" value="决策边界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="345" y="560" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="rEHO3wVgUw_oy06tpRax-137" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="560" width="120" height="120" as="geometry" />
+        <mxCell id="rEHO3wVgUw_oy06tpRax-136" value="模型2决策边界" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
