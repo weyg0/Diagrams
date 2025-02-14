@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rEHO3wVgUw_oy06tpRax-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="120" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="590" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rEHO3wVgUw_oy06tpRax-2" value="类别A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="190" width="60" height="30" as="geometry" />
