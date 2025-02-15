@@ -44,7 +44,7 @@
           <mxGeometry x="490" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-27" value="入侵检测模型&lt;div&gt;(深度神经网络)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-28" value="流量调度模块&lt;div&gt;（Nginx）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
@@ -91,26 +91,35 @@
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-30" target="9ba7Ce31MwZ_cNOjAit5-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-59" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;(Docker)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="270" y="290" width="200" height="100" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="290" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-60" value="节点1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-61" value="节点2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="300" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-104" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=#6c8ebf;endArrow=none;startFill=0;fillColor=#dae8fc;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-62" target="9ba7Ce31MwZ_cNOjAit5-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-105" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#6c8ebf;endArrow=none;startFill=0;fillColor=#dae8fc;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-62" target="9ba7Ce31MwZ_cNOjAit5-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-62" value="节点3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-63" value="节点4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="440" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-98" value="节点4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-64" value="节点5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="360" y="710" width="60" height="30" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-100" value="节点N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-65" value="节点1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="720" width="60" height="30" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-101" value="······" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-106" value="(Docker容器引擎)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
