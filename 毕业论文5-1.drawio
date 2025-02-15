@@ -46,7 +46,7 @@
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-27" value="入侵检测模型&lt;div&gt;(深度神经网络)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-28" value="流量调度模块&lt;div&gt;（NGinx）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-28" value="流量调度模块&lt;div&gt;（Nginx）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="290" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-29" target="9ba7Ce31MwZ_cNOjAit5-30">
