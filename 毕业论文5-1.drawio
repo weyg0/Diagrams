@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="第 1 页" id="cbnWJFDe7zCflggXgep9">
-    <mxGraphModel dx="837" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,19 +14,19 @@
           <mxGeometry x="260" y="270" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="260" y="420" width="560" height="120" as="geometry" />
+          <mxGeometry x="260" y="420" width="560" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-19" target="9ba7Ce31MwZ_cNOjAit5-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="680" y="160" width="140" height="240" as="geometry" />
+          <mxGeometry x="680" y="160" width="140" height="230" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-20" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="120" y="270" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-22" value="安全层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="120" y="420" width="120" height="120" as="geometry" />
+          <mxGeometry x="120" y="420" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-23" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="680" y="100" width="140" height="40" as="geometry" />
@@ -35,16 +35,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-24" value="&lt;div&gt;特征选择模块&lt;/div&gt;&lt;div&gt;(边缘级防御适应算法)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="690" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-25" target="9ba7Ce31MwZ_cNOjAit5-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-25" value="&lt;div&gt;防御策略生成模块&lt;/div&gt;&lt;div&gt;(全局级防御适应算法)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="490" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-27" value="入侵检测模型&lt;div&gt;(深度神经网络)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="315" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-28" target="9ba7Ce31MwZ_cNOjAit5-59">
           <mxGeometry relative="1" as="geometry" />
@@ -62,16 +62,21 @@
           <mxGeometry x="690" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-31" target="9ba7Ce31MwZ_cNOjAit5-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="500" />
+              <mxPoint x="750" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-31" value="安全态势感知模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="300" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9ba7Ce31MwZ_cNOjAit5-32" target="9ba7Ce31MwZ_cNOjAit5-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-32" value="数据存储模块&lt;div&gt;(Apache Parquet)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="690" y="310" width="120" height="80" as="geometry" />
+          <mxGeometry x="690" y="305" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=20.952380952380953;endSize=6.40952380952381;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,7 +142,10 @@
           <mxGeometry x="550" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-113" value="动态重构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="520" y="500" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-114" value="防御策略" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
