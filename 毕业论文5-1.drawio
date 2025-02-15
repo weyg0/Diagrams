@@ -1,50 +1,83 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="第 1 页" id="cbnWJFDe7zCflggXgep9">
-    <mxGraphModel dx="581" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="360" height="60" as="geometry" />
+          <mxGeometry x="460" y="-440" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-16" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="-440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="340" width="360" height="60" as="geometry" />
+          <mxGeometry x="460" y="-320" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="360" height="60" as="geometry" />
+          <mxGeometry x="460" y="-200" width="360" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="240" width="120" height="260" as="geometry" />
+          <mxGeometry x="840" y="-440" width="120" height="360" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-20" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="-320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-22" value="安全层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="-200" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-23" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="-440" width="60" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-24" value="边缘级适应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-24" value="边缘级适应&lt;div&gt;特征选择模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-25" value="全局级适应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-25" value="全局级适应&lt;div&gt;策略生成模块&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-26" value="边缘代理服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9ba7Ce31MwZ_cNOjAit5-27" value="网络入侵检测模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-28" value="流量调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-28" value="流量调度模块&lt;div&gt;（NGinx）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9ba7Ce31MwZ_cNOjAit5-29" value="流量收集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-29" value="流量收集模块&lt;div&gt;（scarpy）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-30" value="流量处理&lt;br&gt;(CICFlowMeter)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-31" value="态势感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-32" value="数据存储模块" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="610" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-33" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="110" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-34" value="接入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-35" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-36" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-37" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="190" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-38" value="服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-39" value="安全层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9ba7Ce31MwZ_cNOjAit5-40" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="190" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
