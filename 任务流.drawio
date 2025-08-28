@@ -4,19 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AeVZ4dznQOCxVV_JC85F-1" value="未审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="AeVZ4dznQOCxVV_JC85F-1" value="未审核" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AeVZ4dznQOCxVV_JC85F-2" value="审核通过" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="AeVZ4dznQOCxVV_JC85F-2" value="审核通过" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="570" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AeVZ4dznQOCxVV_JC85F-3" value="已删除" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="AeVZ4dznQOCxVV_JC85F-3" value="已删除" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AeVZ4dznQOCxVV_JC85F-4" value="待确认" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="AeVZ4dznQOCxVV_JC85F-4" value="待确认" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AeVZ4dznQOCxVV_JC85F-5" value="未通过" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="AeVZ4dznQOCxVV_JC85F-5" value="未通过" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AeVZ4dznQOCxVV_JC85F-7" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=3;gradientColor=#7ea6e0;endSize=3;startSize=3;" edge="1" parent="1">
